@@ -6,7 +6,7 @@
 ### <div align="center">I'm Christian, a web fullstack developer 👨‍💻 ready to work 🚀</div>  
   
 
-- 🔭 I have just finished Henry's intense coding bootcamp (+700 hours) where I learned some of the most required tech skills: Javascript, React, Redux, Express, SQL, PostGres, HTML and CSS. I have also investigated and put in practice Mongo in the final project of the bootcamp.  
+- 🔭 I have just finished Henry's intense coding bootcamp (+700 hours) where I learned some of the most required tech skills: Javascript, React, Redux, Express, SQL, PostGres, Node, HTML and CSS. I have also investigated and put in practice Mongo in the final project of the bootcamp.  
   
 
 - 🌱 I am currently working on adding a marketplace to our project, and I'm starting a new bootcamp called "Argentina Programa".  
