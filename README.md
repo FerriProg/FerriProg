@@ -48,7 +48,36 @@
 
 </table>  
 
-<br/>  
+<br/>
+
+
+### My projects
+
+1) Happy Tails: This is the final group project of the bootcamp Henry. It's a social network with the purpose of finding a home for abandoned pets. I specifically worked on the admin functions, such as logical deletion of users and posts, the register pet form, geolocalization (specifically the rendering of the Mapbox), the integration of a payment service (Mercado Pago) and the buttons to share through Facebook and/or email.
+
+The project is based in MERN (Mongo-Express-React-Node). It has the following features:
+
+1) It allows exchanging pets between users
+2) In-site chat
+3) Images self-hosted in Cloudinary
+4) jwt login
+5) Google login
+6) Local storage
+7) Payment method Mercado Pago incorporated
+8) Buttons for sharing through facebook and/or email
+9) Notifications in-site and through email
+10) Admin dashboard
+11) Likes system
+12) Responsive design
+13) Searchbar
+14) Logical deletion
+15) Mapbox geolocalization
+16) Nested filtering
+
+Repos:
+
+https://github.com/Final-Proyect-PETS/Front-End
+https://github.com/Final-Proyect-PETS/Back-End
 
 
 ## Connect with me  
