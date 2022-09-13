@@ -80,6 +80,21 @@ Repos:
 https://github.com/Final-Proyect-PETS/Front-End<br/>
 https://github.com/Final-Proyect-PETS/Back-End
 
+### Pokemon
+
+This is an individual project I coded for the Henry bootcamp. It uses PostGres, React, Redux, Node and Express, and it gets data from the free Pokemon API. Features:
+
+1) It shows the first 40 pokemons from the Pokemon API, given the natural limitations of the API, to make the app faster.
+2) Searchbar, you can search for any Pokemon in the API
+3) Pagination in front-end
+4) Creation of custom Pokemon
+5) Nested filters
+6) Detail card
+
+Repo:
+
+https://github.com/FerriProg/PI-Pokemon
+
 
 ## Connect with me  
 <div align="center">
